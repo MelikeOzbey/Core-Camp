@@ -1,0 +1,12 @@
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csprojAssemblyReference.cache
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.runtimeconfig.json
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.runtimeconfig.dev.json
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.genruntimeconfig.cache
+F:\Kurs\CoreDemo\CoreDemo\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache

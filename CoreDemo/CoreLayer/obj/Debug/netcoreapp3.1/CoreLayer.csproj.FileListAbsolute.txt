@@ -1,0 +1,9 @@
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.deps.json
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.dll
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.pdb
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.csprojAssemblyReference.cache
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.csproj.CoreCompileInputs.cache
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.AssemblyInfoInputs.cache
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.AssemblyInfo.cs
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.dll
+F:\Kurs\CoreDemo\CoreDemo\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.pdb
